@@ -1,0 +1,712 @@
+Team,Won,Lost,WinningPercentage
+Houston,13,0,1
+James Madison,13,0,1
+Mississippi,13,0,1
+Albany St.,1,0,1
+Anderson SC,1,0,1
+Clark Atlanta,1,0,1
+Rocky Mountain,1,0,1
+Nevada,13,1,0.9285714285714286
+BYU,12,1,0.9230769230769231
+Colorado St.,12,1,0.9230769230769231
+Grand Canyon,12,1,0.9230769230769231
+Kansas,12,1,0.9230769230769231
+New Mexico,12,1,0.9230769230769231
+Oklahoma,12,1,0.9230769230769231
+Princeton,12,1,0.9230769230769231
+Purdue,12,1,0.9230769230769231
+South Carolina,12,1,0.9230769230769231
+Utah St.,12,1,0.9230769230769231
+Clemson,11,1,0.9166666666666666
+Purdue Fort Wayne,13,2,0.8666666666666667
+Cincinnati,11,2,0.8461538461538461
+Colorado,11,2,0.8461538461538461
+Connecticut,11,2,0.8461538461538461
+Drake,11,2,0.8461538461538461
+George Mason,11,2,0.8461538461538461
+George Washington,11,2,0.8461538461538461
+Indiana St.,11,2,0.8461538461538461
+Iowa St.,11,2,0.8461538461538461
+McNeese St.,11,2,0.8461538461538461
+Memphis,11,2,0.8461538461538461
+Mississippi St.,11,2,0.8461538461538461
+Nebraska,11,2,0.8461538461538461
+Ohio St.,11,2,0.8461538461538461
+Providence,11,2,0.8461538461538461
+Samford,11,2,0.8461538461538461
+San Diego St.,11,2,0.8461538461538461
+Utah,11,2,0.8461538461538461
+Western Carolina,11,2,0.8461538461538461
+Auburn,10,2,0.8333333333333334
+Baylor,10,2,0.8333333333333334
+Cornell,10,2,0.8333333333333334
+Dayton,10,2,0.8333333333333334
+Illinois,10,2,0.8333333333333334
+Kentucky,10,2,0.8333333333333334
+Miami FL,10,2,0.8333333333333334
+Northwestern,10,2,0.8333333333333334
+TCU,10,2,0.8333333333333334
+Texas,10,2,0.8333333333333334
+Texas Tech,10,2,0.8333333333333334
+Longwood,12,3,0.8
+Cal St. Northridge,11,3,0.7857142857142857
+Marquette,11,3,0.7857142857142857
+Western Kentucky,11,3,0.7857142857142857
+Appalachian St.,10,3,0.7692307692307693
+Arizona,10,3,0.7692307692307693
+Butler,10,3,0.7692307692307693
+Davidson,10,3,0.7692307692307693
+Evansville,10,3,0.7692307692307693
+Florida,10,3,0.7692307692307693
+Florida Atlantic,10,3,0.7692307692307693
+Georgia,10,3,0.7692307692307693
+Indiana,10,3,0.7692307692307693
+Minnesota,10,3,0.7692307692307693
+Oregon,10,3,0.7692307692307693
+Saint Joseph's,10,3,0.7692307692307693
+Syracuse,10,3,0.7692307692307693
+Virginia,10,3,0.7692307692307693
+Boston College,9,3,0.75
+Bowling Green,9,3,0.75
+Duke,9,3,0.75
+Duquesne,9,3,0.75
+Kansas St.,9,3,0.75
+Massachusetts,9,3,0.75
+N.C. State,9,3,0.75
+North Carolina,9,3,0.75
+St. Bonaventure,9,3,0.75
+Tennessee,9,3,0.75
+Tulane,9,3,0.75
+Tulsa,9,3,0.75
+UCF,9,3,0.75
+UNC Wilmington,9,3,0.75
+Wake Forest,9,3,0.75
+Wisconsin,9,3,0.75
+High Point,11,4,0.7333333333333333
+San Francisco,11,4,0.7333333333333333
+Liberty,10,4,0.7142857142857143
+Morehead St.,10,4,0.7142857142857143
+Portland St.,10,4,0.7142857142857143
+Youngstown St.,10,4,0.7142857142857143
+Arkansas,9,4,0.6923076923076923
+Belmont,9,4,0.6923076923076923
+Boise St.,9,4,0.6923076923076923
+Charleston,9,4,0.6923076923076923
+Creighton,9,4,0.6923076923076923
+Gonzaga,9,4,0.6923076923076923
+La Salle,9,4,0.6923076923076923
+Maryland,9,4,0.6923076923076923
+Missouri St.,9,4,0.6923076923076923
+Oregon St.,9,4,0.6923076923076923
+Pittsburgh,9,4,0.6923076923076923
+Quinnipiac,9,4,0.6923076923076923
+SMU,9,4,0.6923076923076923
+Southern Illinois,9,4,0.6923076923076923
+St. John's,9,4,0.6923076923076923
+Tarleton St.,9,4,0.6923076923076923
+Texas A&M,9,4,0.6923076923076923
+UMass Lowell,9,4,0.6923076923076923
+UNC Greensboro,9,4,0.6923076923076923
+Villanova,9,4,0.6923076923076923
+Virginia Tech,9,4,0.6923076923076923
+Washington St.,9,4,0.6923076923076923
+Weber St.,9,4,0.6923076923076923
+Akron,8,4,0.6666666666666666
+Ball St.,8,4,0.6666666666666666
+Cleveland St.,10,5,0.6666666666666666
+Columbia,8,4,0.6666666666666666
+Georgia Tech,8,4,0.6666666666666666
+Harvard,8,4,0.6666666666666666
+Radford,10,5,0.6666666666666666
+Rutgers,8,4,0.6666666666666666
+San Diego,10,5,0.6666666666666666
+St. Thomas,10,5,0.6666666666666666
+Jacksonville,9,5,0.6428571428571429
+Kennesaw St.,9,5,0.6428571428571429
+Long Beach St.,9,5,0.6428571428571429
+Louisiana Tech,9,5,0.6428571428571429
+UC Irvine,9,5,0.6428571428571429
+Vermont,9,5,0.6428571428571429
+Marist,7,4,0.6363636363636364
+South Florida,7,4,0.6363636363636364
+Alabama,8,5,0.6153846153846154
+Arizona St.,8,5,0.6153846153846154
+Binghamton,8,5,0.6153846153846154
+Bradley,8,5,0.6153846153846154
+Cal Baptist,8,5,0.6153846153846154
+Chattanooga,8,5,0.6153846153846154
+Delaware,8,5,0.6153846153846154
+East Tennessee St.,8,5,0.6153846153846154
+Hawaii,8,5,0.6153846153846154
+Illinois St.,8,5,0.6153846153846154
+Iowa,8,5,0.6153846153846154
+LSU,8,5,0.6153846153846154
+Loyola Chicago,8,5,0.6153846153846154
+Michigan St.,8,5,0.6153846153846154
+Missouri,8,5,0.6153846153846154
+Montana,8,5,0.6153846153846154
+New Hampshire,8,5,0.6153846153846154
+Richmond,8,5,0.6153846153846154
+Seattle,8,5,0.6153846153846154
+Seton Hall,8,5,0.6153846153846154
+South Alabama,8,5,0.6153846153846154
+Stephen F. Austin,8,5,0.6153846153846154
+The Citadel,8,5,0.6153846153846154
+UAB,8,5,0.6153846153846154
+VCU,8,5,0.6153846153846154
+Washington,8,5,0.6153846153846154
+Wichita St.,8,5,0.6153846153846154
+Denver,9,6,0.6
+Lipscomb,9,6,0.6
+Norfolk St.,9,6,0.6
+Saint Mary's,9,6,0.6
+Santa Clara,9,6,0.6
+Tennessee Martin,9,6,0.6
+Winthrop,9,6,0.6
+Air Force,7,5,0.5833333333333334
+Eastern Michigan,7,5,0.5833333333333334
+Kent St.,7,5,0.5833333333333334
+North Texas,7,5,0.5833333333333334
+Oklahoma St.,7,5,0.5833333333333334
+UC Santa Barbara,7,5,0.5833333333333334
+Albany,8,6,0.5714285714285714
+Cal St. Fullerton,8,6,0.5714285714285714
+Penn,8,6,0.5714285714285714
+Stetson,8,6,0.5714285714285714
+UTEP,8,6,0.5714285714285714
+Western Illinois,8,6,0.5714285714285714
+Yale,8,6,0.5714285714285714
+Saint Peter's,6,5,0.5454545454545454
+UNLV,6,5,0.5454545454545454
+Drexel,7,6,0.5384615384615384
+East Carolina,7,6,0.5384615384615384
+Elon,7,6,0.5384615384615384
+Fairfield,7,6,0.5384615384615384
+Fresno St.,7,6,0.5384615384615384
+Georgetown,7,6,0.5384615384615384
+Hofstra,7,6,0.5384615384615384
+Illinois Chicago,7,6,0.5384615384615384
+Louisiana,7,6,0.5384615384615384
+Mercer,7,6,0.5384615384615384
+Monmouth,7,6,0.5384615384615384
+Penn St.,7,6,0.5384615384615384
+Saint Louis,7,6,0.5384615384615384
+San Jose St.,7,6,0.5384615384615384
+Stony Brook,7,6,0.5384615384615384
+Temple,7,6,0.5384615384615384
+Texas A&M Corpus Chris,7,6,0.5384615384615384
+Towson,7,6,0.5384615384615384
+Troy,7,6,0.5384615384615384
+UC Davis,7,6,0.5384615384615384
+UC San Diego,7,6,0.5384615384615384
+Wofford,7,6,0.5384615384615384
+Wyoming,7,6,0.5384615384615384
+Xavier,7,6,0.5384615384615384
+Bryant,8,7,0.5333333333333333
+Green Bay,8,7,0.5333333333333333
+Jacksonville St.,8,7,0.5333333333333333
+Maine,8,7,0.5333333333333333
+North Dakota,8,7,0.5333333333333333
+Presbyterian,8,7,0.5333333333333333
+SIU Edwardsville,8,7,0.5333333333333333
+South Dakota,8,7,0.5333333333333333
+Tennessee St.,8,7,0.5333333333333333
+UNC Asheville,8,7,0.5333333333333333
+Canisius,6,6,0.5
+Charlotte,6,6,0.5
+Florida St.,6,6,0.5
+Georgia St.,6,6,0.5
+Idaho,7,7,0.5
+Loyola Marymount,7,7,0.5
+Miami OH,6,6,0.5
+Milwaukee,7,7,0.5
+North Carolina Central,7,7,0.5
+North Dakota St.,7,7,0.5
+Northern Colorado,6,6,0.5
+Northern Illinois,6,6,0.5
+Northern Kentucky,7,7,0.5
+Ohio,6,6,0.5
+South Dakota St.,7,7,0.5
+Stanford,6,6,0.5
+Texas A&M Commerce,6,6,0.5
+Toledo,6,6,0.5
+UT Arlington,6,6,0.5
+Wagner,6,6,0.5
+Mobile,1,1,0.5
+Austin Peay,7,8,0.4666666666666667
+Little Rock,7,8,0.4666666666666667
+Nebraska Omaha,7,8,0.4666666666666667
+North Florida,7,8,0.4666666666666667
+Oakland,7,8,0.4666666666666667
+Pepperdine,7,8,0.4666666666666667
+American,6,7,0.46153846153846156
+Campbell,6,7,0.46153846153846156
+Central Connecticut,6,7,0.46153846153846156
+Colgate,6,7,0.46153846153846156
+Eastern Washington,6,7,0.46153846153846156
+Fordham,6,7,0.46153846153846156
+Furman,6,7,0.46153846153846156
+Iona,6,7,0.46153846153846156
+Lamar,6,7,0.46153846153846156
+Michigan,6,7,0.46153846153846156
+Montana St.,6,7,0.46153846153846156
+North Alabama,6,7,0.46153846153846156
+Northern Arizona,6,7,0.46153846153846156
+Northern Iowa,6,7,0.46153846153846156
+Notre Dame,6,7,0.46153846153846156
+Oral Roberts,6,7,0.46153846153846156
+Rhode Island,6,7,0.46153846153846156
+Rice,6,7,0.46153846153846156
+Southern,6,7,0.46153846153846156
+Southern Miss,6,7,0.46153846153846156
+Texas St.,6,7,0.46153846153846156
+UCLA,6,7,0.46153846153846156
+USC,6,7,0.46153846153846156
+UTSA,6,7,0.46153846153846156
+Utah Tech,6,7,0.46153846153846156
+Utah Valley,6,7,0.46153846153846156
+Delaware St.,7,9,0.4375
+Eastern Illinois,6,8,0.42857142857142855
+Fairleigh Dickinson,6,8,0.42857142857142855
+Lindenwood,6,8,0.42857142857142855
+Marshall,6,8,0.42857142857142855
+Merrimack,6,8,0.42857142857142855
+Sam Houston St.,6,8,0.42857142857142855
+UC Riverside,6,8,0.42857142857142855
+Wright St.,6,8,0.42857142857142855
+Central Michigan,5,7,0.4166666666666667
+Louisville,5,7,0.4166666666666667
+Florida Gulf Coast,6,9,0.4
+New Mexico St.,6,9,0.4
+Pacific,6,9,0.4
+Portland,6,9,0.4
+Queens,6,9,0.4
+Sacred Heart,6,9,0.4
+UMKC,6,9,0.4
+Abilene Christian,5,8,0.38461538461538464
+Arkansas Pine Bluff,5,8,0.38461538461538464
+Bethune Cookman,5,8,0.38461538461538464
+Boston University,5,8,0.38461538461538464
+Cal St. Bakersfield,5,8,0.38461538461538464
+Mount St. Mary's,5,8,0.38461538461538464
+New Orleans,5,8,0.38461538461538464
+Nicholls St.,5,8,0.38461538461538464
+Northeastern,5,8,0.38461538461538464
+Prairie View A&M,5,8,0.38461538461538464
+Saint Francis,5,8,0.38461538461538464
+Southeastern Louisiana,5,8,0.38461538461538464
+Southern Utah,5,8,0.38461538461538464
+USC Upstate,5,8,0.38461538461538464
+Vanderbilt,5,8,0.38461538461538464
+West Virginia,5,8,0.38461538461538464
+William & Mary,5,8,0.38461538461538464
+Chicago St.,7,12,0.3684210526315789
+Louisiana Monroe,4,7,0.36363636363636365
+Manhattan,4,7,0.36363636363636365
+Navy,4,7,0.36363636363636365
+Howard,5,9,0.35714285714285715
+Le Moyne,5,9,0.35714285714285715
+Middle Tennessee,5,9,0.35714285714285715
+Southeast Missouri St.,5,9,0.35714285714285715
+Alabama St.,4,8,0.3333333333333333
+FIU,5,10,0.3333333333333333
+Gardner Webb,5,10,0.3333333333333333
+Hampton,4,8,0.3333333333333333
+IUPUI,5,10,0.3333333333333333
+Incarnate Word,4,8,0.3333333333333333
+NJIT,4,8,0.3333333333333333
+Niagara,4,8,0.3333333333333333
+Tennessee Tech,5,10,0.3333333333333333
+UMBC,5,10,0.3333333333333333
+Arkansas St.,4,9,0.3076923076923077
+Army,4,9,0.3076923076923077
+California,4,9,0.3076923076923077
+Charleston Southern,4,9,0.3076923076923077
+Dartmouth,4,9,0.3076923076923077
+Eastern Kentucky,4,9,0.3076923076923077
+Idaho St.,4,9,0.3076923076923077
+Jackson St.,4,9,0.3076923076923077
+Murray St.,4,9,0.3076923076923077
+Old Dominion,4,9,0.3076923076923077
+UT Rio Grande Valley,4,9,0.3076923076923077
+Valparaiso,4,9,0.3076923076923077
+Brown,4,10,0.2857142857142857
+Cal Poly,4,10,0.2857142857142857
+Lehigh,3,8,0.2727272727272727
+Bellarmine,4,11,0.26666666666666666
+Robert Morris,4,11,0.26666666666666666
+Southern Indiana,4,11,0.26666666666666666
+Coastal Carolina,3,9,0.25
+DePaul,3,9,0.25
+Morgan St.,4,12,0.25
+South Carolina St.,4,12,0.25
+Western Michigan,3,9,0.25
+Bucknell,3,10,0.23076923076923078
+Holy Cross,3,10,0.23076923076923078
+Rider,3,10,0.23076923076923078
+Sacramento St.,3,10,0.23076923076923078
+VMI,3,10,0.23076923076923078
+Central Arkansas,3,12,0.2
+Florida A&M,2,9,0.18181818181818182
+Houston Christian,2,9,0.18181818181818182
+Maryland Eastern Shore,2,9,0.18181818181818182
+Texas Southern,2,9,0.18181818181818182
+Grambling St.,2,10,0.16666666666666666
+Loyola MD,2,11,0.15384615384615385
+North Carolina A&T,2,11,0.15384615384615385
+Northwestern St.,2,11,0.15384615384615385
+Siena,2,11,0.15384615384615385
+Stonehill,2,13,0.13333333333333333
+Buffalo,1,11,0.08333333333333333
+LIU,1,11,0.08333333333333333
+Alabama A&M,1,12,0.07692307692307693
+Alcorn St.,1,12,0.07692307692307693
+Georgia Southern,1,12,0.07692307692307693
+Lafayette,1,12,0.07692307692307693
+Coppin St.,1,13,0.07142857142857142
+Chaminade,0,3,0
+Detroit Mercy,0,15,0
+Lake Erie,0,2,0
+Howard Payne,0,1,0
+Heidelberg,0,1,0
+Miami Hamilton,0,1,0
+Oglethorpe,0,1,0
+MUW,0,1,0
+SUNY Potsdam,0,1,0
+Xavier LA,0,2,0
+Hood,0,1,0
+Oakland City,0,2,0
+Central Pennsylvania,0,1,0
+Champion Christian,0,7,0
+Southwestern Christian,0,1,0
+Arkansas Baptist,0,1,0
+Ecclesia,0,4,0
+SUNY Maritime,0,1,0
+US Merchant Marine,0,1,0
+Life,0,1,0
+Fisk,0,2,0
+Midway,0,6,0
+Goshen,0,2,0
+John Brown,0,2,0
+Mississippi Valley St.,0,13,0
+Boyce,0,2,0
+Berea,0,1,0
+Berry,0,1,0
+Trinity FL,0,2,0
+Trinity Baptist,0,4,0
+Keystone,0,2,0
+Marywood,0,1,0
+Vanguard,0,2,0
+Western Oregon,0,1,0
+Northern Vermont   Joh,0,1,0
+Ohio Dominican,0,1,0
+Siena Heights,0,1,0
+Truman St.,0,1,0
+Rhode Island College,0,1,0
+Fisher,0,2,0
+Springfield,0,1,0
+Roberts Wesleyan,0,1,0
+Saginaw Valley St.,0,1,0
+San Francisco St.,0,1,0
+La Verne,0,2,0
+Saint Katherine,0,2,0
+Whittier,0,1,0
+La Sierra,0,1,0
+Stanton,0,1,0
+Life Pacific,0,3,0
+Bethesda,0,7,0
+Southern Virginia,0,2,0
+Pfeiffer,0,2,0
+St. Augustine,0,1,0
+D'Youville,0,1,0
+Hendrix,0,1,0
+Framingham St.,0,1,0
+Saint Elizabeth,0,1,0
+Davenport,0,1,0
+Montreat,0,2,0
+Toccoa Falls,0,4,0
+Johnson & Wales NC,0,2,0
+Kentucky Christian,0,2,0
+Greensboro,0,1,0
+Covenant,0,1,0
+Tennessee Wesleyan,0,1,0
+Defiance,0,3,0
+Piedmont,0,1,0
+St. Andrews Pres.,0,4,0
+Vermont St.,0,1,0
+CSU Pueblo,0,1,0
+Adams St.,0,2,0
+Bard,0,1,0
+SUNY Delhi,0,1,0
+Morrisville St.,0,1,0
+Westfield St.,0,1,0
+Thomas,0,2,0
+Washington & Lee,0,1,0
+Lynchburg,0,1,0
+Goldey Beacom,0,1,0
+Gwynedd Mercy,0,2,0
+Virginia Lynchburg,0,7,0
+Colorado Christian,0,1,0
+Colorado College,0,2,0
+Northern New Mexico,0,4,0
+SW Minnesota St.,0,1,0
+Penn State Allegheny,0,1,0
+Cleary,0,2,0
+Ferrum,0,1,0
+King,0,2,0
+Tusculum,0,1,0
+Monmouth IL,0,1,0
+Eureka,0,2,0
+St. Louis Pharmacy,0,2,0
+Blackburn,0,1,0
+West Virginia Tech,0,1,0
+Wilberforce,0,2,0
+Bethany WV,0,2,0
+Lake Superior St.,0,1,0
+Northwood MI,0,1,0
+Walla Walla,0,1,0
+Portland Bible,0,1,0
+Warren Wilson,0,1,0
+Bridgewater VA,0,2,0
+Mount Saint Mary,0,1,0
+Penn State Brandywine,0,1,0
+Penn State Schuylkill,0,1,0
+LeMoyne Owen,0,1,0
+Ave Maria,0,1,0
+New College of Florida,0,1,0
+Florida Memorial,0,1,0
+Fresno Pacific,0,2,0
+North Greenville,0,3,0
+Bob Jones,0,2,0
+Erskine,0,2,0
+Limestone,0,1,0
+Bowie St.,0,1,0
+Middle Georgia St.,0,1,0
+Eastern Oregon,0,1,0
+UNT Dallas,0,3,0
+St. Francis IL,0,2,0
+MSOE,0,1,0
+Mid Atlantic Christian,0,4,0
+Mary Baldwin,0,1,0
+UMass Boston,0,1,0
+Hawaii Hilo,0,1,0
+Hawaii Pacific,0,1,0
+Mount Olive,0,2,0
+St. Joseph's NY,0,2,0
+Elms,0,1,0
+Southwestern Adventist,0,3,0
+Regent,0,2,0
+Spalding,0,2,0
+Evergreen St.,0,1,0
+Pacific Lutheran,0,1,0
+Warner Pacific,0,1,0
+Northwest,0,2,0
+Aurora,0,1,0
+Lourdes,0,1,0
+Schreiner,0,2,0
+St. Mary of the Woods,0,1,0
+Johnson FL,0,2,0
+Brescia,0,4,0
+Fort Valley St.,0,1,0
+Trevecca Nazarene,0,1,0
+Oakwood,0,1,0
+Keiser,0,1,0
+Malone,0,1,0
+Shawnee St.,0,2,0
+Rosemont,0,1,0
+Wilkes,0,1,0
+Jarvis Christian,0,2,0
+Paul Quinn,0,3,0
+SUNY Canton,0,1,0
+Fredonia St.,0,1,0
+Houghton,0,1,0
+SUNY Oneonta,0,1,0
+Cairn,0,2,0
+Hannibal LaGrange,0,2,0
+Avila,0,2,0
+Rockford,0,1,0
+Asbury,0,1,0
+Bryan,0,1,0
+Cal St.Dominguez Hills,0,1,0
+St. Mary's MD,0,2,0
+The Apprentice School,0,2,0
+Gallaudet,0,1,0
+Louisiana Christian,0,1,0
+Loyola LA,0,2,0
+Lyon,0,1,0
+Dillard,0,2,0
+Westcliff,0,3,0
+Maine Presque Isle,0,1,0
+Felician,0,2,0
+Bluefield,0,1,0
+Biblical Studies,0,2,0
+LeTourneau,0,2,0
+Miss. Univ. for Women,0,1,0
+Talladega,0,1,0
+Worcester St.,0,1,0
+Milligan,0,1,0
+Wisconsin Stout,0,2,0
+Luther,0,1,0
+Northwest Indian,0,2,0
+Montana State Northern,0,1,0
+Montana Tech,0,1,0
+American Indian,0,1,0
+Saint Mary of the Wood,0,1,0
+Alice Lloyd,0,2,0
+Cheyney,0,1,0
+Penn St. Wilkes Barre,0,2,0
+Medgar Evers,0,1,0
+Washington MD,0,1,0
+Doane,0,1,0
+Mid America Christian,0,2,0
+York NE,0,1,0
+Bellevue,0,1,0
+Curry,0,1,0
+Eastern New Mexico,0,1,0
+Sul Ross St.,0,1,0
+Western New Mexico,0,2,0
+Southwest,0,1,0
+Millsaps,0,1,0
+Southern New Orleans,0,4,0
+Belhaven,0,1,0
+Birmingham Southern,0,1,0
+Buffalo St.,0,1,0
+Blue Mountain,0,2,0
+Elizabeth City St.,0,1,0
+Point,0,1,0
+Valley City St.,0,1,0
+Concordia MN,0,1,0
+Waldorf,0,2,0
+Mount Marty,0,3,0
+Oak Hill Christian,0,1,0
+Coastal Georgia,0,2,0
+Edward Waters,0,1,0
+Angelo St.,0,1,0
+LSU Shreveport,0,1,0
+Illinois Tech,0,1,0
+Calumet,0,1,0
+Loras,0,1,0
+DePauw,0,1,0
+Cumberlands,0,1,0
+Dallas Christian,0,3,0
+Virginia Wesleyan,0,1,0
+Ozark Christian,0,1,0
+Linfield,0,2,0
+Cal St.Stanislaus,0,2,0
+California Maritime,0,1,0
+John Jay,0,1,0
+FDU Florham,0,1,0
+Concordia CA,0,1,0
+Lewis & Clark,0,2,0
+Willamette,0,1,0
+George Fox,0,1,0
+Kansas Christian,0,1,0
+North American,0,3,0
+Columbia International,0,2,0
+Bryn Athyn,0,1,0
+Delaware Valley,0,1,0
+Andrews,0,1,0
+Wittenberg,0,1,0
+Carolina Christian,0,1,0
+Carolina,0,3,0
+Coast Guard,0,1,0
+Eastern Mennonite,0,1,0
+Notre Dame MD,0,1,0
+Johnson & Wales RI,0,1,0
+St. Thomas TX,0,1,0
+Immaculata,0,1,0
+Point Park,0,1,0
+St. Vincent,0,1,0
+North Park,0,1,0
+Missouri Baptist,0,2,0
+Central Christian MO,0,1,0
+SW Assemblies of God,0,1,0
+Pacific Union,0,1,0
+Sarah Lawrence,0,1,0
+Mercy,0,1,0
+Pittsburgh Greensburg,0,1,0
+Franciscan,0,1,0
+Lincoln MO,0,1,0
+Kean,0,1,0
+Mississippi College,0,1,0
+LaGrange,0,1,0
+Sonoma St.,0,1,0
+Point Loma Nazarene,0,1,0
+Menlo,0,1,0
+Lynn,0,1,0
+Spring Hill,0,1,0
+Voorhees,0,2,0
+Brewton Parker,0,1,0
+Northland,0,1,0
+Dakota Wesleyan,0,1,0
+Mayville St.,0,1,0
+Harris Stowe,0,1,0
+Lindsey Wilson,0,1,0
+Delta St.,0,1,0
+Wiley,0,1,0
+Kentucky St.,0,3,0
+Tiffin,0,1,0
+East West,0,1,0
+William Carey,0,1,0
+Antelope Valley,0,1,0
+North Central MN,0,1,0
+Crown,0,1,0
+Wisconsin River Falls,0,1,0
+Hartford,0,1,0
+Hardin Simmons,0,1,0
+Sterling KS,0,1,0
+Bloomsburg,0,1,0
+William Woods,0,1,0
+Bethel TN,0,1,0
+Science and Arts,0,2,0
+Arlington Baptist,0,1,0
+Texas Lutheran,0,1,0
+Arcadia,0,1,0
+Fort Lauderdale,0,1,0
+Reinhardt,0,1,0
+Southwestern Oklahoma,0,1,0
+Montevallo,0,1,0
+Jessup,0,1,0
+California Merced,0,2,0
+Occidental,0,2,0
+Westmont,0,1,0
+Penn St. York,0,1,0
+Saint Mary,0,1,0
+Tabor,0,1,0
+Rivier,0,1,0
+Emerson,0,1,0
+Johnson TN,0,1,0
+William Peace,0,1,0
+Carroll MT,0,2,0
+Coker,0,1,0
+Texas Tyler,0,1,0
+McMurry,0,1,0
+Arkansas Fort Smith,0,1,0
+South Dakota Mines,0,2,0
+Northwest Nazarene,0,1,0
+Western Colorado,0,1,0
+Christendom,0,1,0
+Clarks Summit,0,1,0
+Penn State New Kensing,0,1,0
+Trinity Christian,0,1,0
+Plattsburgh St.,0,1,0
+Northern Vermont,0,1,0
+Molloy,0,1,0
+Benedictine Mesa,0,1,0
+Navajo Tech,0,1,0
+Park Gilbert,0,1,0
+Dalton St.,0,1,0
+St. Ambrose,0,1,0
+Coe,0,1,0
+Kentucky Wesleyan,0,1,0
+Campbellsville,0,1,0
+Aquinas,0,1,0
+Friends,0,1,0
+Brevard,0,2,0
+Southern Wesleyan,0,1,0
+Bethel IN,0,1,0
+Muskingum,0,1,0
+Vassar,0,1,0
+Colby Sawyer,0,1,0
+Ohio Christian,0,1,0
+Westminster PA,0,1,0
