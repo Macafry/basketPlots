@@ -2,7 +2,7 @@
 % Please edit documentation in R/runGames.R
 \name{runGames}
 \alias{runGames}
-\title{Correlation App}
+\title{Team Win Data App}
 \usage{
 runGames()
 }

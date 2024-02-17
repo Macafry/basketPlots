@@ -1,4 +1,4 @@
-#' Correlation App
+#' Team Win Data App
 #'
 #' This function allows the team win data shiny app to run. The app prompts the
 #' user to type in a team name, showing suggestions if they don't input a valid
