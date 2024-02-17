@@ -2,6 +2,7 @@
 
 export(SUU_performance)
 export(team_games)
+export(team_performance)
 export(team_summary)
 export(win_loss_scatter)
 import(dplyr)

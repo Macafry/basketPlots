@@ -17,17 +17,6 @@
 #' @export
 
 SUU_performance = function() {(
-  team_games(games2023, "Southern Utah")
-  %>% mutate(
-    Result = case_when(
-      xor(HomeTeam == "Southern Utah", Difference > 0) ~ "Won",
-      .default = "Lost"
-    ))
-  %>% group_by(Result)
-  %>% summarise( Count = n() )
-  %>% ggplot()
-  + geom_bar(aes(x = Result, y = Count,fill =  Result),
-             stat = "identity",
-             color = "black")
+  team_performance("Southern Utah")
 )}
 
